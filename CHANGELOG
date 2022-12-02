@@ -1,3 +1,7 @@
+== update version 15.0.17 ==
+
+  * Add *.proto to the list of src files (Fixes #40)
+
 == update version 15.0.16 ==
 
   * golang.sh: Don't throw an error on prep if $(get_gocontrib_path) does not exist.
