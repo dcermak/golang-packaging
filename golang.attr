@@ -1,3 +1,2 @@
-%__golang_requires  %{_prefix}/lib/rpm/golang.req
 %__golang_provides  %{_prefix}/lib/rpm/golang.prov
-%__golang_path      ^(%{_prefix}/lib(64)?/go/contrib/src.*\\.go)$
+%__golang_flags     exeonly
