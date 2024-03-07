@@ -1,2 +1,2 @@
 %__golang_provides  %{_prefix}/lib/rpm/golang.prov
-%__golang_flags     exeonly
+%__golang_path      ^%{_bindir}
